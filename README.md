@@ -40,7 +40,7 @@ O município possui o 10º maior PIB do mundo, representando, isoladamente, 10,7
 
 **PALESTRAS**
 
-A maior parte das palestras são escolhidas pelas pessoas que compõem a comunidade e abordão diversos temas nas mais diversas áreas em que se usa Go.
+A maior parte das palestras são escolhidas pelas pessoas que compõem a comunidade e abordam diversos temas nas mais diversas áreas em que se usa Go.
 
 **LIGHTNING TALKS**
 
